@@ -1,1 +1,1 @@
-# Algebra_Lineal_Computacional
+# Algebra Lineal Computacional
